@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-02-01 12:00">
+    <shop>
+        <name>umbres</name>
+        <company>umbres</company>
+        <url>https://s-zontom.com.ua/</url>
+        <currencies>
+            <currency id="UAH" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1">Для женщин</category>
+            <category id="2">Для мужчин</category>
+        </categories>
+        <offers>
+           
+            <offer available="true" id="91801">
+                <url>https://s-zontom.com.ua/p712103459-zhenskij-zont-polnyj.html</url>
+                <price>408</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180207946_w640_h640_11.jpg</picture>
+                <picture>https://images.ua.prom.st/1180207947_w640_h640_6.jpg</picture>
+                <name>Зонт Flagman Цветы полный автомат Красный (F918)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p>Лаконичный и простой дизайн от качественного китайского производителя Flagman.<br></p><p>Главной особенностью данной модели есть проявка уникального рисунка при попадании воды на материал. Стержень изготовлен из прочной стали. Механизм имеет систему "Антиветер" которая обеспечивает защиту от поломок при сильном ветре, так же благодаря спицам из карбона (Fiberglass) достигается необычайная гибкость конструкции. </p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[<ul><li><p>Длина в сложенном виде: 30 см.</p></li><li><p>Длина стержня: 60 см. </p></li><li><p>Диаметр купола: 100 см.</p></li><li><p>Материал спиц: карбон (Fiberglass), двойной</p></li><li><p>Особенности механизма: система "Антиветер"</p></li><li><p>Особенности ткани купола: проявка</p></li></ul>]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Красный</param>
+                <param name="Механизм зонта">Полный автомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 4 </stock_quantity>
+            </offer>
+            <offer available="true" id="91802">
+                <url>https://s-zontom.com.ua/p712103459-zhenskij-zont-polnyj.html</url>
+                <price>408</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180207951_w640_h640_9.jpg</picture>
+                <picture>https://images.ua.prom.st/1180207947_w640_h640_6.jpg</picture>
+                <name>Зонт Flagman Цветы полный автомат Серый (F918)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[
+                        <p>Лаконичный и простой дизайн от качественного китайского производителя Flagman.<br></p>
+                        <p>Главной особенностью данной модели есть проявка уникального рисунка при попадании воды на материал. Стержень изготовлен из прочной стали. Механизм имеет систему "Антиветер" которая обеспечивает защиту от поломок при сильном ветре, так же благодаря спицам из карбона (Fiberglass) достигается необычайная гибкость конструкции. </p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                        <ul>
+                            <li><p>Длина в сложенном виде: 30 см.</p></li>
+                            <li><p>Длина стержня: 60 см. </p></li>
+                            <li><p>Диаметр купола: 100 см.</p></li>
+                            <li><p>Материал спиц: карбон (Fiberglass), двойной</p></li>
+                            <li><p>Особенности механизма: система "Антиветер"</p></li>
+                            <li><p>Особенности ткани купола: проявка</p></li>
+                        </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Серый</param>
+                <param name="Механизм зонта">Полный автомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 4 </stock_quantity>
+            </offer>
+            <offer available="true" id="91803">
+                <url>https://s-zontom.com.ua/p712103459-zhenskij-zont-polnyj.html</url>
+                <price>408</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180207953_w640_h640_10.jpg</picture>
+                <picture>https://images.ua.prom.st/1180207947_w640_h640_6.jpg</picture>
+                <name>Зонт Flagman Цветы полный автомат Черный (F918)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p>Лаконичный и простой дизайн от качественного китайского производителя Flagman.<br></p><p>Главной особенностью данной модели есть проявка уникального рисунка при попадании воды на материал. Стержень изготовлен из прочной стали. Механизм имеет систему "Антиветер" которая обеспечивает защиту от поломок при сильном ветре, так же благодаря спицам из карбона (Fiberglass) достигается необычайная гибкость конструкции. </p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[<ul><li><p>Длина в сложенном виде: 30 см.</p></li><li><p>Длина стержня: 60 см. </p></li><li><p>Диаметр купола: 100 см.</p></li><li><p>Материал спиц: карбон (Fiberglass), двойной</p></li><li><p>Особенности механизма: система "Антиветер"</p></li><li><p>Особенности ткани купола: проявка</p></li></ul>]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Черный</param>
+                <param name="Механизм зонта">Полный автомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 4 </stock_quantity>
+            </offer>
+            <offer available="true" id="91804">
+                <url>https://s-zontom.com.ua/p712103459-zhenskij-zont-polnyj.html</url>
+                <price>408</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180207948_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1180207947_w640_h640_6.jpg</picture>
+                <name>Зонт Flagman Цветы полный автомат Фиолетовый (F918)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p>Лаконичный и простой дизайн от качественного китайского производителя Flagman.<br></p><p>Главной особенностью данной модели есть проявка уникального рисунка при попадании воды на материал. Стержень изготовлен из прочной стали. Механизм имеет систему "Антиветер" которая обеспечивает защиту от поломок при сильном ветре, так же благодаря спицам из карбона (Fiberglass) достигается необычайная гибкость конструкции. </p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[<ul><li><p>Длина в сложенном виде: 30 см.</p></li><li><p>Длина стержня: 60 см. </p></li><li><p>Диаметр купола: 100 см.</p></li><li><p>Материал спиц: карбон (Fiberglass), двойной</p></li><li><p>Особенности механизма: система "Антиветер"</p></li><li><p>Особенности ткани купола: проявка</p></li></ul>]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Фиолетовый</param>
+                <param name="Механизм зонта">Полный автомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 4 </stock_quantity>
+            </offer>
+            <offer available="true" id="91805">
+                <url>https://s-zontom.com.ua/p712103459-zhenskij-zont-polnyj.html</url>
+                <price>408</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180207949_w640_h640_13.jpg</picture>
+                <name>Зонт Flagman Цветы полный автомат Бордовый (F918)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p>Лаконичный и простой дизайн от качественного китайского производителя Flagman.<br></p><p>Главной особенностью данной модели есть проявка уникального рисунка при попадании воды на материал. Стержень изготовлен из прочной стали. Механизм имеет систему "Антиветер" которая обеспечивает защиту от поломок при сильном ветре, так же благодаря спицам из карбона (Fiberglass) достигается необычайная гибкость конструкции. </p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[<ul><li><p>Длина в сложенном виде: 30 см.</p></li><li><p>Длина стержня: 60 см. </p></li><li><p>Диаметр купола: 100 см.</p></li><li><p>Материал спиц: карбон (Fiberglass), двойной</p></li><li><p>Особенности механизма: система "Антиветер"</p></li><li><p>Особенности ткани купола: проявка</p></li></ul>]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Бордовый</param>
+                <param name="Механизм зонта">Полный автомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 4 </stock_quantity>
+            </offer>
+            <offer available="true" id="91806">
+                <url>https://s-zontom.com.ua/p712103459-zhenskij-zont-polnyj.html</url>
+                <price>408</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180207952_w640_h640_12.jpg</picture>
+                <picture>https://images.ua.prom.st/1180207947_w640_h640_6.jpg</picture>
+                <name>Зонт Flagman Цветы полный автомат Синий (F918)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p>Лаконичный и простой дизайн от качественного китайского производителя Flagman.<br></p><p>Главной особенностью данной модели есть проявка уникального рисунка при попадании воды на материал. Стержень изготовлен из прочной стали. Механизм имеет систему "Антиветер" которая обеспечивает защиту от поломок при сильном ветре, так же благодаря спицам из карбона (Fiberglass) достигается необычайная гибкость конструкции. </p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[<ul><li><p>Длина в сложенном виде: 30 см.</p></li><li><p>Длина стержня: 60 см. </p></li><li><p>Диаметр купола: 100 см.</p></li><li><p>Материал спиц: карбон (Fiberglass), двойной</p></li><li><p>Особенности механизма: система "Антиветер"</p></li><li><p>Особенности ткани купола: проявка</p></li></ul>]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Синий</param>
+                <param name="Механизм зонта">Полный автомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 4 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="92601">
+                <url>https://s-zontom.com.ua/p719654404-muzhskoj-zont-poluavtomat.html</url>
+                <price>328</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://images.ua.prom.st/1197528065_w640_h640_2.jpg</picture>
+                <picture>https://images.ua.prom.st/1197528080_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1197528076_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1197528086_w640_h640_3.jpg</picture>
+                <name>Зонт Flagman полуавтомат Черный (F926)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 36 см.</p></li>
+                    <li><p>Длина стержня: 64 см. </p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для мужчин</param>
+                <param name="Цвет">Черный</param>
+                <param name="Механизм зонта">Полуавтомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 24 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="92801">
+                <url>https://s-zontom.com.ua/p719648594-muzhskoj-zont-poluavtomat.html</url>
+                <price>328</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://images.ua.prom.st/1197514146_w640_h640_1.jpg</picture>
+                <picture>https://images.ua.prom.st/1197514153_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1197514147_w640_h640_2.jpg</picture>
+                <picture>https://images.ua.prom.st/1197514155_w640_h640_3.jpg</picture>
+                <name>Зонт Flagman полуавтомат Черный (F928)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Длина стержня: 60 см. </p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для мужчин</param>
+                <param name="Цвет">Черный</param>
+                <param name="Механизм зонта">Полуавтомат</param>
+                <param name="Количество спиц">9</param>
+                <param name="Материал">Эпонж</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 24 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="30601">
+                <url>https://s-zontom.com.ua/p668016703-zhenskij-zont-trost.html</url>
+                <price>185</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1090347869_w640_h640_3.jpg</picture>
+                <picture>https://images.ua.prom.st/1090347867_w640_h640_2.jpg</picture>
+                <name>Зонт Flagman Листья трость Оранжевый (K306P)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 86 см.</p></li>
+                    <li><p>Материал спиц: сталь</p></li>
+                    <li><p>Особенности ткани купола: ПВХ (полихлорвинил)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">
+                Красный
+                </param>
+                <param name="Механизм зонта">
+                Трость
+                </param>
+                <param name="Количество спиц">
+                8
+                </param>
+                <param name="Материал">
+                ПВХ (полихлорвинил)
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 6 </stock_quantity>
+            </offer>
+            <offer available="true" id="30602">
+                <url>https://s-zontom.com.ua/p668016703-zhenskij-zont-trost.html</url>
+                <price>185</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1090347872_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1090347867_w640_h640_2.jpg</picture>
+                <name>Зонт Flagman Листья трость Желтый (K306P)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 86 см.</p></li>
+                    <li><p>Материал спиц: сталь</p></li>
+                    <li><p>Особенности ткани купола: ПВХ (полихлорвинил)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">
+                Желтый
+                </param>
+                <param name="Механизм зонта">
+                Полуавтомат
+                </param>
+                <param name="Количество спиц">
+                8
+                </param>
+                <param name="Материал">
+                ПВХ (полихлорвинил)
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 6 </stock_quantity>
+            </offer>
+            <offer available="true" id="30603">
+                <url>https://s-zontom.com.ua/p668016703-zhenskij-zont-trost.html</url>
+                <price>185</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1090347868_w640_h640_6.jpg</picture>
+                <picture>https://images.ua.prom.st/1090347867_w640_h640_2.jpg</picture>
+                <name>Зонт Flagman Листья трость Зеленый (K306P)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 86 см.</p></li>
+                    <li><p>Материал спиц: сталь</p></li>
+                    <li><p>Особенности ткани купола: ПВХ (полихлорвинил)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">
+                Зеленый
+                </param>
+                <param name="Механизм зонта">
+                Трость
+                </param>
+                <param name="Количество спиц">
+                8
+                </param>
+                <param name="Материал">
+                ПВХ (полихлорвинил)
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 6 </stock_quantity>
+            </offer>
+            <offer available="true" id="30604">
+                <url>https://s-zontom.com.ua/p668016703-zhenskij-zont-trost.html</url>
+                <price>185</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1090347871_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1090347867_w640_h640_2.jpg</picture>
+                <name>Зонт Flagman Листья трость Синий (K306P)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 86 см.</p></li>
+                    <li><p>Материал спиц: сталь</p></li>
+                    <li><p>Особенности ткани купола: ПВХ (полихлорвинил)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">
+                Зеленый
+                </param>
+                <param name="Механизм зонта">
+                Полуавтомат
+                </param>
+                <param name="Количество спиц">
+                8
+                </param>
+                <param name="Материал">
+                ПВХ (полихлорвинил)
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 6 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="308001">
+                <url>https://s-zontom.com.ua/p825989801-zhenskij-zont-mehanika.html</url>
+                <price>500</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1436402336_w640_h640_7.jpg</picture>
+                <picture>https://images.ua.prom.st/1436402278_w640_h640_9.jpg</picture>
+                <picture>https://images.ua.prom.st/1436402371_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1436402270_w640_h640_8.jpg</picture>
+                <picture>https://images.ua.prom.st/1436402307_w640_h640_6.jpg</picture>
+                <picture>https://images.ua.prom.st/1436402335_w640_h640_2.jpg</picture>
+                <picture>https://images.ua.prom.st/1436402334_w640_h640_1.jpg</picture>
+                <name>Зонт Susino Selfie механика Черный (3080Selfie)</name>
+                <vendor>Susino</vendor>
+                <description>
+                    <![CDATA[<p>Компактный зонт-трансформер от фирмы Susino не только защитит вас от небольшого дождя, но так же и позволяет делать качественные селфи-фото. Благодаря встроенной системе Bluetooth ваш телефон можно подключить к пульту и прикрепить к держателю, который находится со стороны ручки. По нажатию на кнопку на пульте вы получаете отличное селфи-фото!</p><p>Приятным бонусом будет наличие пластиковой упаковки, которая делает такой зонт отличным подарком.</p>Внимание!!! Отсутсвует система "Антиветер"!!! Данный зонт не предназначен для суровых погодных условий, в частности, сильный ветер может повредить спицы.]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 27 см.</p></li>
+                    <li><p>Длина стержня: 55 см.</p></li>
+                    <li><p>Диаметр купола: 90 см.</p></li>
+                    <li><p>Материал спиц: сталь</p></li>
+                    <li><p>Особенности механизма: присутсвие Selfie-конструкции</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                    <li><p>Наличие пластиковой упаковки: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Унисекс</param>
+                <param name="Цвет">Серый</param>
+                <param name="Механизм зонта">Механика</param>
+                <param name="Количество спиц">6</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 12 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="94001">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230135_w640_h640_2.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Розовый Цветок (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Другие
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="94002">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230136_w640_h640_6.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Желтый Цветок (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Другие
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="94003">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230130_w640_h640_3.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Фиолетовый (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Фиолетовый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="94004">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230137_w640_h640_8.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Голубой (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Голубой
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="94005">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230133_w640_h640_7.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Красный Цветок (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Другие
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="94006">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230138_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Фиолетовый Цветок (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Другие
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="94007">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230145_w640_h640_9.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Черный (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Черный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="94008">
+                <url>https://s-zontom.com.ua/p712114945-zhenskij-zont-trost.html</url>
+                <price>548</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1180230139_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1180230131_w640_h640_10.jpg</picture>
+                <name>Зонт-трость Flagman полуавтомат наизнанку Ромашки (F940)</name>
+                <vendor>Flagman</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 81 см.</p></li>
+                    <li><p>Диаметр купола: 110 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Особенности механизма: механизм открытия "Наизнанку"</p></li>
+                    <li><p>Особенности ткани купола: двойная ткань (внутри и снаружи)</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Другие
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+
+            
+
+            <offer available="true" id="04901">
+                <url>https://s-zontom.com.ua/p751608995-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1267048343_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1267048340_w640_h640_3.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Оранжевый (049)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 32 см.</p></li>
+                    <li><p>Длина стержня: 59 см.</p></li>
+                    <li><p>Диаметр купола: 95 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Оранжевый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04902">
+                <url>https://s-zontom.com.ua/p751608995-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId> <picture>https://images.ua.prom.st/1267048344_w640_h640_8.jpg</picture>
+                <picture>https://images.ua.prom.st/1267048340_w640_h640_3.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Синий (049)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 32 см.</p></li>
+                    <li><p>Длина стержня: 59 см.</p></li>
+                    <li><p>Диаметр купола: 95 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Оранжевый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04903">
+                <url>https://s-zontom.com.ua/p751608995-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1267048342_w640_h640_6.jpg</picture>
+                <picture>https://images.ua.prom.st/1267048340_w640_h640_3.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Фиолетовый (049)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 32 см.</p></li>
+                    <li><p>Длина стержня: 59 см.</p></li>
+                    <li><p>Диаметр купола: 95 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Оранжевый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04904">
+                <url>https://s-zontom.com.ua/p751608995-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1267048346_w640_h640_9.jpg</picture>
+                <picture>https://images.ua.prom.st/1267048340_w640_h640_3.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Электрик (049)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 32 см.</p></li>
+                    <li><p>Длина стержня: 59 см.</p></li>
+                    <li><p>Диаметр купола: 95 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Электрик
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04905">
+                <url>https://s-zontom.com.ua/p751608995-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1267048348_w640_h640_7.jpg</picture>
+                <picture>https://images.ua.prom.st/1267048340_w640_h640_3.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Бежевый (049)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 32 см.</p></li>
+                    <li><p>Длина стержня: 59 см.</p></li>
+                    <li><p>Диаметр купола: 95 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Бежевый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04906">
+                <url>https://s-zontom.com.ua/p751608995-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1267048347_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1267048340_w640_h640_3.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Черный (049)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 32 см.</p></li>
+                    <li><p>Длина стержня: 59 см.</p></li>
+                    <li><p>Диаметр купола: 95 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Черный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="130001">
+                <url>https://s-zontom.com.ua/p801896893-zhenskij-zont-poluavtomat.html</url>
+                <price>433</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1381721347_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1381721340_w640_h640_3.jpg</picture>
+                <picture>https://images.ua.prom.st/1381721330_w640_h640_2.jpg</picture>
+                <name>Зонт Mario Countries полуавтомат Фиолетовый (MR1300)</name>
+                <vendor>Mario</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Длина стержня: 61 см.</p></li>
+                    <li><p>Диаметр купола: 96 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Фиолетовый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 12 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="35601">
+                <url>https://s-zontom.com.ua/p801894321-muzhskoj-zont-poluavtomat.html</url>
+                <price>368</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://images.ua.prom.st/1381717957_w640_h640_1.jpg</picture>
+                <picture>https://images.ua.prom.st/1381717960_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1381717958_w640_h640_4.jpg</picture>
+                <name>Зонт мужской Calm Rain полуавтомат Черный (N356)</name>
+                <vendor>Calm Rain</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Длина стержня: 59 см. </p></li>
+                    <li><p>Диаметр купола: 100 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для мужчин</param>
+                <param name="Цвет">Черный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">10
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 12 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="101101">
+                <url>https://s-zontom.com.ua/p810959009-zhenskij-zont-poluavtomat.html</url>
+                <price>428</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1402056657_w640_h640_3.jpg</picture>
+                <picture>https://images.ua.prom.st/1402056656_w640_h640_2.jpg</picture>
+                <name>Зонт трость Max Komfort London Бордовый (SW1011)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 91 см.</p></li>
+                    <li><p>Диаметр купола: 106 см.</p></li>
+                    <li><p>Материал спиц: сталь/пластик</p></li>
+                    <li><p>Особенности ткани купола: рисунок на внутренней части зонта</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Бордовый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">16
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="101102">
+                <url>https://s-zontom.com.ua/p810959009-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1402056666_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1402056660_w640_h640_4.jpg</picture>
+                <name>Зонт трость Max Komfort Towers Красный (SW1011)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 91 см.</p></li>
+                    <li><p>Диаметр купола: 106 см.</p></li>
+                    <li><p>Материал спиц: сталь/пластик</p></li>
+                    <li><p>Особенности ткани купола: рисунок на внутренней части зонта</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Красный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">16
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="101103">
+                <url>https://s-zontom.com.ua/p810959009-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1402056669_w640_h640_7.jpg</picture>
+                <picture>https://images.ua.prom.st/1402056673_w640_h640_6.jpg</picture>
+                <name>Зонт трость Max Komfort Towers Синий (SW1011)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 91 см.</p></li>
+                    <li><p>Диаметр купола: 106 см.</p></li>
+                    <li><p>Материал спиц: сталь/пластик</p></li>
+                    <li><p>Особенности ткани купола: рисунок на внутренней части зонта</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Синий
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">16
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+            <offer available="true" id="101104">
+                <url>https://s-zontom.com.ua/p810959009-zhenskij-zont-poluavtomat.html</url>
+                <price>448</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1402056668_w640_h640_9.jpg</picture>
+                <picture>   https://images.ua.prom.st/1402056670_w640_h640_8.jpg</picture>
+                <name>Зонт трость Max Komfort Towers Фиолетовый (SW1011)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 91 см.</p></li>
+                    <li><p>Диаметр купола: 106 см.</p></li>
+                    <li><p>Материал спиц: сталь/пластик</p></li>
+                    <li><p>Особенности ткани купола: рисунок на внутренней части зонта</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Трость</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Фиолет
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">16
+                </param>
+                <param name="Материал">Эпонж
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 3 </stock_quantity>
+            </offer>
+
+            <offer available="true" id="61101">
+                <url>https://s-zontom.com.ua/p563607544-zhenskij-zont-poluavtomat.html</url>
+                <price>278</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/857892991_w640_h640_img_9715.jpg</picture>
+                <picture>https://images.ua.prom.st/857893007_w640_h640_img_9716.jpg</picture>
+                <name>Зонт женский Fashion Newspaper полуавтомат Молочный (F611)</name>
+                <vendor>Fashion</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 31 см.</p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Полуавтомат</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Молочный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Нейлон
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="61102">
+                <url>https://s-zontom.com.ua/p563607544-zhenskij-zont-poluavtomat.html</url>
+                <price>278</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/857893009_w640_h640_img_9717.jpg</picture>
+                <picture>https://images.ua.prom.st/857893007_w640_h640_img_9716.jpg</picture>
+                <name>Зонт женский Fashion Newspaper полуавтомат Белый (F611)</name>
+                <vendor>Fashion</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 31 см.</p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Полуавтомат</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Молочный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Нейлон
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="61103">
+                <url>https://s-zontom.com.ua/p563607544-zhenskij-zont-poluavtomat.html</url>
+                <price>278</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/857893021_w640_h640_img_9718.jpg</picture>
+                <picture>https://images.ua.prom.st/857893007_w640_h640_img_9716.jpg</picture>
+                <name>Зонт женский Fashion Newspaper полуавтомат Зеленый (F611)</name>
+                <vendor>Fashion</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 31 см.</p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Полуавтомат</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Молочный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Нейлон
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="61104">
+                <url>https://s-zontom.com.ua/p563607544-zhenskij-zont-poluavtomat.html</url>
+                <price>278</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/857893031_w640_h640_img_9719.jpg</picture>
+                <picture>https://images.ua.prom.st/857893007_w640_h640_img_9716.jpg</picture>
+                <name>Зонт женский Fashion Newspaper полуавтомат Синий (F611)</name>
+                <vendor>Fashion</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 31 см.</p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Полуавтомат</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Молочный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Нейлон
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="61105">
+                <url>https://s-zontom.com.ua/p563607544-zhenskij-zont-poluavtomat.html</url>
+                <price>278</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/857893046_w640_h640_img_9720.jpg</picture>
+                <picture>https://images.ua.prom.st/857893007_w640_h640_img_9716.jpg</picture>
+                <name>Зонт женский Fashion Newspaper полуавтомат Красный (F611)</name>
+                <vendor>Fashion</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 31 см.</p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Полуавтомат</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Молочный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Нейлон
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="61106">
+                <url>https://s-zontom.com.ua/p563607544-zhenskij-zont-poluavtomat.html</url>
+                <price>278</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/857893072_w640_h640_img_9721.jpg</picture>
+                <picture>https://images.ua.prom.st/857893007_w640_h640_img_9716.jpg</picture>
+                <name>Зонт женский Fashion Newspaper полуавтомат Черный (F611)</name>
+                <vendor>Fashion</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 31 см.</p></li>
+                    <li><p>Диаметр купола: 97 см.</p></li>
+                    <li><p>Материал спиц: тонкий карбон</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Полуавтомат</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Молочный
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">8
+                </param>
+                <param name="Материал">Нейлон
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            
+            <offer available="true" id="04801">
+                <url>https://s-zontom.com.ua/p810608562-zhenskij-zont-poluavtomat.html</url>
+                <price>415</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1401485026_w640_h640_7.jpg</picture>
+                <picture>https://images.ua.prom.st/1401485029_w640_h640_10.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Оранжевый (048)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Диаметр купола: 100 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Оранжевый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Полиэстер
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04802">
+                <url>https://s-zontom.com.ua/p810608562-zhenskij-zont-poluavtomat.html</url>
+                <price>415</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1401485025_w640_h640_5.jpg</picture>
+                <picture>https://images.ua.prom.st/1401485029_w640_h640_10.jpg</picture>
+                <name>Зонт женский Max Komfort Patterns полуавтомат Синий (048)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Диаметр купола: 100 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Синий
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Полиэстер
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04803">
+                <url>https://s-zontom.com.ua/p810608562-zhenskij-zont-poluavtomat.html</url>
+                <price>415</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1401485027_w640_h640_4.jpg</picture>
+                <picture>https://images.ua.prom.st/1401485029_w640_h640_10.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Электрик (048)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Диаметр купола: 100 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Электрик
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Полиэстер
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04804">
+                <url>https://s-zontom.com.ua/p810608562-zhenskij-zont-poluavtomat.html</url>
+                <price>415</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1401485032_w640_h640_6.jpg</picture>
+                <picture>https://images.ua.prom.st/1401485029_w640_h640_10.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Бордовый (048)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Диаметр купола: 100 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Бордовый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Полиэстер
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04805">
+                <url>https://s-zontom.com.ua/p810608562-zhenskij-zont-poluavtomat.html</url>
+                <price>415</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1401485031_w640_h640_8.jpg</picture>
+                <picture>https://images.ua.prom.st/1401485029_w640_h640_10.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Бежевый (048)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Диаметр купола: 100 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Бежевый
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Полиэстер
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            <offer available="true" id="04806">
+                <url>https://s-zontom.com.ua/p810608562-zhenskij-zont-poluavtomat.html</url>
+                <price>415</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://images.ua.prom.st/1401485030_w640_h640_9.jpg</picture>
+                <picture>https://images.ua.prom.st/1401485029_w640_h640_10.jpg</picture>
+                <name>Зонт женский Max Komfort Melange полуавтомат Темно-синий (048)</name>
+                <vendor>Max Komfort</vendor>
+                <description>
+                    <![CDATA[<p></p>]]>
+                </description>
+                <param name="Дополнительные характеристики">
+                <![CDATA[
+                <ul>
+                    <li><p>Длина в сложенном виде: 33 см.</p></li>
+                    <li><p>Диаметр купола: 100 см.</p></li>
+                    <li><p>Материал спиц: карбон (Fiberglass)</p></li>
+                    <li><p>Особенности механизма: система "Антиветер"</p></li>
+                    <li><p>Наличие чехла: есть</p></li>
+                </ul>
+                ]]>
+                </param>
+                <param name="Вид зонта">Складной (3 сложения)</param>
+                <param name="Категория">Для женщин</param>
+                <param name="Цвет">Темно-синий
+                </param>
+                <param name="Механизм зонта">Полуавтомат
+                </param>
+                <param name="Количество спиц">9
+                </param>
+                <param name="Материал">Полиэстер
+                </param>
+                <param name="Вид">Зонт</param>
+                <param name="Страна-производитель">Китай</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity> 2 </stock_quantity>
+            </offer>
+            
+
+
+        </offers>
+
+    </shop>
+</yml_catalog>
